@@ -3625,7 +3625,7 @@ msgstr "게시판모음 탐색"
 
 #: r2/lib/pages/pages.py:5119
 msgid "your subscribed subreddits"
-msgstr "your subscribed subreddits"
+msgstr "현재 구독 중인 게시판"
 
 #: r2/lib/pages/pages.py:5232
 #, python-format
